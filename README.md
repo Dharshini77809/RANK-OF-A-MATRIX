@@ -21,6 +21,7 @@ print(rank)
 ```
 ## Output:
 <img width="760" height="685" alt="Screenshot 2026-02-08 131519" src="https://github.com/user-attachments/assets/2401db57-c3be-43cd-ab0e-c60315deddc7" />
+<img width="1460" height="282" alt="Screenshot 2026-02-08 172246" src="https://github.com/user-attachments/assets/63898b42-5f45-4b5d-9561-8369e2dd4ebb" />
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
